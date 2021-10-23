@@ -1,10 +1,9 @@
 Refference Example: https://www.freakyjolly.com/angular-12-crud-example-with-web-api-httpclient-rest-apis/#Install_json-server
-
-#1.Start mock server
+# 1.Start mock server 
 Finally, run the mock server in new CLI instance with json file specified using below command
 $ json-server --watch ./src/app/data.json
 
-#2.Serve or Run Application in the Browser
+# 2.Serve or Run Application in the Browser
 ng serve
    or
 ng serve –open
