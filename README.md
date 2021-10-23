@@ -1,3 +1,5 @@
+Refference Example: https://www.freakyjolly.com/angular-12-crud-example-with-web-api-httpclient-rest-apis/#Install_json-server
+
 # AngularCrudApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.11.
